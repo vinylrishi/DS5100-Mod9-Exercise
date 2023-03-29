@@ -7,5 +7,5 @@ setup(
     author='Rishi Sharma',
     author_email='bws5dk@virginia.edu',
     description='Description of my package',
-    packages=find_packages('demo')    
+    packages=(['demo'])    
 )
